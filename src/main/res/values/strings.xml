@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeroTextingFunction</string>
+    <string name="SMSButton">Send Message</string>
+</resources>
