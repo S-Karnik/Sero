@@ -1,5 +1,4 @@
-package com.example.mishka.gps;
-
+package com.example.sathwik.seroapp;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.location.Location;
